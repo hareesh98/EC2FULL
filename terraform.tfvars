@@ -1,5 +1,5 @@
-access_key = "AKIAVPMU7LCW4Q7ZCSM6" # Access key
-secret_access_key = "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" # Secret access key
+access_key = "AKIAVPMU7LCWVWS66F6L" # Access key
+secret_access_key = "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" # Secret access key
 region = "ap-south-1" # Region
 instance_type = "t2.micro" # instance type
 ami = "ami-062df10d14676e201" # AMI ID
