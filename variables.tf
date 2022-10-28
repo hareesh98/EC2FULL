@@ -44,6 +44,11 @@ variable "subnet_id" {
   description = "subnet id"
   type = string
 }
+variable "versioning" {
+    type        = bool
+    description = "(Optional) A state of versioning."
+    default     = false
+}
 
 variable "tags" {
   description =  "ec2 instance tags"
